@@ -16,8 +16,8 @@ const greeting = {
   full_name: "Kumar Saurabh",
   subTitle:
     "You Give Me Any Task I will do it Anyway. Full Stack Developer, Problem Solver 🔥. Always learning.",
-  // resumeLink:
-  //   "https://docs.google.com/document/d/edit?usp=sharing",
+  resumeLink:
+    "https://drive.google.com/file/d/1GTabmHe4Eb-MdtktbbCj2JGJjPQ8ZSur/view?usp=sharing",
   mail: "mailto:ksaur1990@gmail.com",
 };
 
@@ -463,11 +463,11 @@ const experience = {
           title: "Benefits Operations Administrator (BOA)",
           company: "Aon India Pvt Ltd",
           company_url: "https://www.aon.com/",
-          logo_path: "aon.svg",
+          logo_path: "aon.png",
           duration: "Jan 2012 - Aug 2015",
           location: "Office",
           description:
-            "Fetch user history data from SQL to forcast future feature implimentations for the client. Also, Technical hand holding to US based client's employees.",
+            "Fetch user history data from SQL to forecast future feature implementations for the client. Also, Technical hand holding to US based client's employees.",
           color: "#ee3c26",
         }
       ],
