@@ -456,7 +456,7 @@ const experience = {
           duration: "Aug 2015 - Nov 2016",
           location: "Office",
           description:
-            "Data fetching, Analysing, Forcasting and Reporting to onshore clients for future business expension and resource allocations.",
+            "Data fetching, Analyzing, Forecasting and Reporting to onshore clients for future business expansion and resource allocations.",
           color: "#ee3c26",
         },
         {
