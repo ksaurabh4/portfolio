@@ -15,7 +15,7 @@ const greeting = {
   nickname: "Kumar",
   full_name: "Kumar Saurabh",
   subTitle:
-    "Full Stack Developer, Open Source Enthusiast 🔥. Always learning.",
+    "You Give Me Any Task I will do it Anyway. Full Stack Developer, Problem Solver 🔥. Always learning.",
   // resumeLink:
   //   "https://docs.google.com/document/d/edit?usp=sharing",
   mail: "mailto:ksaur1990@gmail.com",
@@ -26,7 +26,7 @@ const socialMediaLinks = {
   github: "https://github.com/ksaurabh4",
   linkedin: "https://www.linkedin.com/in/ksaurabh4/",
   gmail: "ksaur1990@gmail.com",
-  // gitlab: "https://gitlab.com/ksaurabh4",
+  gitlab: "https://gitlab.com/ksaurabh4",
   facebook: "https://www.facebook.com/ksaurabh4/",
   twitter: "https://twitter.com/ksaurabh4",
   instagram: "https://www.instagram.com/ksaurabh4/",

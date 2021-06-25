@@ -1,5 +1,5 @@
 import React from "react";
-import { Route, Switch, BrowserRouter } from "react-router-dom";
+import { Route, Switch, HashRouter } from "react-router-dom";
 import Home from "../pages/home/HomeComponent";
 import Splash from "../pages/splash/Splash";
 import Education from "../pages/education/EducationComponent";
@@ -13,7 +13,7 @@ export default function Main(propss) {
   if (settings.isSplash) {
     return (
       <div>
-        <BrowserRouter basename="/">
+        <HashRouter basename="/">
           <Switch>
             <Route
               path="/"
@@ -98,13 +98,13 @@ export default function Main(propss) {
               )}
             />
           </Switch>
-        </BrowserRouter>
+        </HashRouter>
       </div>
     );
   } else {
     return (
       <div>
-        <BrowserRouter basename="/">
+        <HashRouter basename="/">
           <Switch>
             <Route
               path="/"
@@ -180,7 +180,7 @@ export default function Main(propss) {
             )}
           />
           </Switch>
-        </BrowserRouter>
+        </HashRouter>
       </div>
     );
   }
