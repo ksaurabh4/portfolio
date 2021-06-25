@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.df7a6651.chunk.css",
-    "main.js": "/portfolio/static/js/main.c67bbb4b.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.c67bbb4b.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.2cfacfa4.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.2cfacfa4.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.28b9b55b.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.28b9b55b.js.map",
-    "static/js/2.2d3726fb.chunk.js": "/portfolio/static/js/2.2d3726fb.chunk.js",
-    "static/js/2.2d3726fb.chunk.js.map": "/portfolio/static/js/2.2d3726fb.chunk.js.map",
+    "static/js/2.65415f9d.chunk.js": "/portfolio/static/js/2.65415f9d.chunk.js",
+    "static/js/2.65415f9d.chunk.js.map": "/portfolio/static/js/2.65415f9d.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.fa0bc5d2766351351ba66f2ae67a4155.js": "/portfolio/precache-manifest.fa0bc5d2766351351ba66f2ae67a4155.js",
+    "precache-manifest.65ce688aa4d21846debcb8e8d2e2c0b1.js": "/portfolio/precache-manifest.65ce688aa4d21846debcb8e8d2e2c0b1.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/main.df7a6651.chunk.css.map": "/portfolio/static/css/main.df7a6651.chunk.css.map",
-    "static/js/2.2d3726fb.chunk.js.LICENSE.txt": "/portfolio/static/js/2.2d3726fb.chunk.js.LICENSE.txt",
+    "static/js/2.65415f9d.chunk.js.LICENSE.txt": "/portfolio/static/js/2.65415f9d.chunk.js.LICENSE.txt",
     "static/media/index.css": "/portfolio/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/aon.svg": "/portfolio/static/media/aon.fe128188.svg",
     "static/media/buld.jpg": "/portfolio/static/media/buld.a1051a22.jpg",
@@ -37,8 +37,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.28b9b55b.js",
-    "static/js/2.2d3726fb.chunk.js",
+    "static/js/2.65415f9d.chunk.js",
     "static/css/main.df7a6651.chunk.css",
-    "static/js/main.c67bbb4b.chunk.js"
+    "static/js/main.2cfacfa4.chunk.js"
   ]
 }
