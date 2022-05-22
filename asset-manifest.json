@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.df7a6651.chunk.css",
-    "main.js": "/portfolio/static/js/main.a0cb8547.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.a0cb8547.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.472cfec7.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.472cfec7.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.28b9b55b.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.28b9b55b.js.map",
-    "static/js/2.65415f9d.chunk.js": "/portfolio/static/js/2.65415f9d.chunk.js",
-    "static/js/2.65415f9d.chunk.js.map": "/portfolio/static/js/2.65415f9d.chunk.js.map",
+    "static/js/2.214a3972.chunk.js": "/portfolio/static/js/2.214a3972.chunk.js",
+    "static/js/2.214a3972.chunk.js.map": "/portfolio/static/js/2.214a3972.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.75824b9ea3f7cf6a7f70c3d9ac8aa88e.js": "/portfolio/precache-manifest.75824b9ea3f7cf6a7f70c3d9ac8aa88e.js",
+    "precache-manifest.06c4bd56d9f98641d6095c148ce4d88a.js": "/portfolio/precache-manifest.06c4bd56d9f98641d6095c148ce4d88a.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/main.df7a6651.chunk.css.map": "/portfolio/static/css/main.df7a6651.chunk.css.map",
-    "static/js/2.65415f9d.chunk.js.LICENSE.txt": "/portfolio/static/js/2.65415f9d.chunk.js.LICENSE.txt",
+    "static/js/2.214a3972.chunk.js.LICENSE.txt": "/portfolio/static/js/2.214a3972.chunk.js.LICENSE.txt",
     "static/media/index.css": "/portfolio/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/aon.svg": "/portfolio/static/media/aon.fe128188.svg",
     "static/media/buld.jpg": "/portfolio/static/media/buld.a1051a22.jpg",
@@ -23,11 +23,14 @@
     "static/media/gdg.png": "/portfolio/static/media/gdg.6364dbb3.png",
     "static/media/github.png": "/portfolio/static/media/github.0ba2aa20.png",
     "static/media/googleAssistant.jpg": "/portfolio/static/media/googleAssistant.0c8a4c11.jpg",
+    "static/media/hackerRank.svg": "/portfolio/static/media/hackerRank.a5cb16e0.svg",
     "static/media/ino.png": "/portfolio/static/media/ino.ccf88661.png",
     "static/media/js.png": "/portfolio/static/media/js.bb1c92d2.png",
     "static/media/kumar.png": "/portfolio/static/media/kumar.c6839b58.png",
     "static/media/libi.png": "/portfolio/static/media/libi.dc5e4765.png",
     "static/media/mongo.png": "/portfolio/static/media/mongo.d324ee17.png",
+    "static/media/mphasis-logo.png": "/portfolio/static/media/mphasis-logo.5a0cc137.png",
+    "static/media/mphasis-logo.jpeg": "/portfolio/static/media/mphasis-logo.60caf194.jpeg",
     "static/media/nodejs.png": "/portfolio/static/media/nodejs.9c4ab203.png",
     "static/media/postman.jpg": "/portfolio/static/media/postman.22f11067.jpg",
     "static/media/postman.png": "/portfolio/static/media/postman.c108f557.png",
@@ -37,8 +40,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.28b9b55b.js",
-    "static/js/2.65415f9d.chunk.js",
+    "static/js/2.214a3972.chunk.js",
     "static/css/main.df7a6651.chunk.css",
-    "static/js/main.a0cb8547.chunk.js"
+    "static/js/main.472cfec7.chunk.js"
   ]
 }
