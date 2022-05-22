@@ -26,7 +26,7 @@ const socialMediaLinks = {
   github: "https://github.com/ksaurabh4",
   linkedin: "https://www.linkedin.com/in/ksaurabh4/",
   gmail: "ksaur1990@gmail.com",
-  gitlab: "https://gitlab.com/ksaurabh4",
+  // gitlab: "https://gitlab.com/ksaurabh4",
   facebook: "https://www.facebook.com/ksaurabh4/",
   twitter: "https://twitter.com/ksaurabh4",
   instagram: "https://www.instagram.com/ksaurabh4/",
@@ -41,7 +41,8 @@ const skills = {
       skills: [
         "⚡ Develop highly interactive Front end / User Interfaces for your web applications",
         "⚡ Building responsive website front end using ReactJS",
-        "⚡ Creating application backend in Node, Express & Flask",
+        "⚡ Creating application backend in Node & Express",
+        "⚡ Creating mobile applications in Flutter",
         "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean",
         "⚡ Developing wordpress websites based on WP themes"
       ],
@@ -132,20 +133,20 @@ const skills = {
         //     color: "#3DDC84",
         //   },
         // },
-        // {
-        //   skillName: "Flutter",
-        //   fontAwesomeClassname: "simple-icons:flutter",
-        //   style: {
-        //     color: "#02569B",
-        //   },
-        // },
-        // {
-        //   skillName: "Dart",
-        //   fontAwesomeClassname: "simple-icons:dart",
-        //   style: {
-        //     color: "#29B0EE",
-        //   },
-        // },
+        {
+          skillName: "Flutter",
+          fontAwesomeClassname: "simple-icons:flutter",
+          style: {
+            color: "#02569B",
+          },
+        },
+        {
+          skillName: "Dart",
+          fontAwesomeClassname: "simple-icons:dart",
+          style: {
+            color: "#29B0EE",
+          },
+        },
         // {
         //   skillName: "Visual Basic",
         //   fontAwesomeClassname: "simple-icons:dot-net",
@@ -234,20 +235,20 @@ const skills = {
         //     color: "#336791",
         //   },
         // },
-        {
-          skillName: "MongoDB",
-          fontAwesomeClassname: "simple-icons:mongodb",
-          style: {
-            color: "#47A248",
-          },
-        },
         // {
-        //   skillName: "Docker",
-        //   fontAwesomeClassname: "simple-icons:docker",
+        //   skillName: "MongoDB",
+        //   fontAwesomeClassname: "simple-icons:mongodb",
         //   style: {
-        //     color: "#1488C6",
+        //     color: "#47A248",
         //   },
         // },
+        {
+          skillName: "Docker",
+          fontAwesomeClassname: "simple-icons:docker",
+          style: {
+            color: "#1488C6",
+          },
+        },
         // {
         //   skillName: "GitHub Actions",
         //   fontAwesomeClassname: "simple-icons:githubactions",
@@ -280,6 +281,16 @@ const degrees = {
 
 const certifications = {
   certifications: [
+    {
+      title: "React (Basic)",
+      subtitle: "HackerRank",
+      logo_path: "hackerRank.svg",
+      certificate_link:
+        "https://www.hackerrank.com/certificates/e9329c64036c?test_finished=true",
+      alt_name: "React Course",
+      color_code: "#d7fcfb",
+      // color_code: "#47A048",
+    },
     {
       title: "React & Redux",
       subtitle: "Modern React with Redux",
@@ -438,11 +449,22 @@ const experience = {
       title: "Work Experience",
       experiences: [
         {
+          title: "Project Lead - System",
+          company: "Mphasis Ltd.",
+          company_url: "https://www.mphasis.com//",
+          logo_path: "mphasis-logo.jpeg",
+          duration: "Oct 2021 - Current",
+          location: "Hybrid",
+          description:
+            "Working on the Frontend (UI) part of software for the third largest Bank of United States of America. Along with Development, helping other team members to perform their task efficiently and on time.",
+          color: "#0071C5",
+        },
+        {
           title: "Technical Business Head (Full Stack Developer)",
           company: "Libi Technologies Pvt Ltd",
           company_url: "http://www.libitech.in/",
           logo_path: "libi.png",
-          duration: "Nov 2016 - Current",
+          duration: "Nov 2016 - Oct 2021",
           location: "Office",
           description:
             "I have worked on fully automated process in the company by implement several software such as ERP and CRM. Also, Worked on several projects for the benefit of company.",
@@ -473,7 +495,7 @@ const experience = {
       ],
     },
     // {
-    //   title: "Volunteerships",
+    //   title: "Freelancing Experience",
     //   experiences: [
     //     {
     //       title: "Cross Winter of Code Mentor",
@@ -566,6 +588,62 @@ const contactPageData = {
 const projects = {
   data: [
     {
+      id: "11",
+      name: "GPS Daddy - GPS Tracking Software",
+      // url: "https://erp.libitech.in/",
+      description: "This is the complete gps tracking software for my company made with ReactJS, NodeJS, mysql, mongodb, Flutter, etc..",
+      languages: [
+        {
+          name: "React",
+          iconifyClass: "logos-react",
+        },
+        {
+          name: "Firebase",
+          iconifyClass: "logos-firebase",
+        },
+        {
+          name: "NodeJS",
+          iconifyClass: "logos-nodejs",
+        },
+        {
+          name: "mysql",
+          iconifyClass: "logos-mysql",
+        },
+        {
+          name: "mongodb",
+          iconifyClass: "simple-icons:mongodb",
+        },
+        {
+          name: "flutter",
+          iconifyClass: "logos-flutter",
+        },
+      ],
+    },
+    {
+      id: "12",
+      name: "GPS Talks - GPS Knowledge Center",
+      url: "https://play.google.com/store/apps/details?id=com.gps_talks&hl=en&gl=US",
+      description: "This is a kind of knowledge center/Sharing app helping dealer to aware about GPS tracking devices and let them share it with their community.",
+      languages: [
+        {
+          name: "Firebase",
+          iconifyClass: "logos-firebase",
+        },
+        {
+          name: "NodeJS",
+          iconifyClass: "logos-nodejs",
+        },
+        {
+          name: "mysql",
+          iconifyClass: "logos-mysql",
+        },
+        {
+          name: "flutter",
+          iconifyClass: "logos-flutter",
+        },
+      ],
+    },
+    {
       id: "0",
       name: "Libicon - Complete ERP solution",
       url: "https://erp.libitech.in/",
@@ -578,6 +656,10 @@ const projects = {
         {
           name: "Firebase",
           iconifyClass: "logos-firebase",
+        },
+        {
+          name: "mysql",
+          iconifyClass: "logos-mysql",
         },
         {
           name: "NodeJS",
@@ -622,7 +704,7 @@ const projects = {
           iconifyClass: "logos-wordpress",
         },
       ],
-    },
+    },    
     {
       id: "4",
       name: "node_express_task-manager--api",
@@ -686,8 +768,6 @@ const projects = {
         },
       ],
     },
-    
-    
     {
       id: "7",
       name: "Roomify - Online Hotel Booking App ",
@@ -736,7 +816,6 @@ const projects = {
         
       ],
     },
-    
     {
       id: "9",
       name: "Blog Site Design",
