@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "03ffd7ec259be0ed3fa2399e1be0134d",
+    "revision": "a951df0a5a2eace7eef21f5204cef1a3",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "a0bce7182a8769cbcb77",
-    "url": "/portfolio/static/css/main.df7a6651.chunk.css"
+    "revision": "e55dcc1abf63b794eaeb",
+    "url": "/portfolio/static/css/main.4b27c51a.chunk.css"
   },
   {
     "revision": "6428579f87f44b42aa9f",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.214a3972.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a0bce7182a8769cbcb77",
-    "url": "/portfolio/static/js/main.472cfec7.chunk.js"
+    "revision": "e55dcc1abf63b794eaeb",
+    "url": "/portfolio/static/js/main.2e6191bb.chunk.js"
   },
   {
     "revision": "ba231e20624ac31d97de",
@@ -56,8 +56,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
-    "revision": "fe1281887e5ffca6da9b6d29c4f061fd",
-    "url": "/portfolio/static/media/aon.fe128188.svg"
+    "revision": "30cdaa757d37536eab39ee047f76e7d9",
+    "url": "/portfolio/static/media/aon.30cdaa75.svg"
   },
   {
     "revision": "a1051a228140c97862ba9a7f321c92b6",
@@ -80,8 +80,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/fa-brands-400.5063b105.eot"
   },
   {
-    "revision": "a9c4bb7348f42626454c988dbde1d0a0",
-    "url": "/portfolio/static/media/fa-brands-400.a9c4bb73.svg"
+    "revision": "9d204f50ec8e5bcc5dcda0132d404b48",
+    "url": "/portfolio/static/media/fa-brands-400.9d204f50.svg"
   },
   {
     "revision": "c5e0f14f88a828261ba01558ce2bf26f",
@@ -96,8 +96,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/fa-regular-400.65b286af.ttf"
   },
   {
-    "revision": "7b9568e6389b1f8ae0902cd39665fc1e",
-    "url": "/portfolio/static/media/fa-regular-400.7b9568e6.svg"
+    "revision": "9443c1e7fdf95d739af3f0901224f90a",
+    "url": "/portfolio/static/media/fa-regular-400.9443c1e7.svg"
   },
   {
     "revision": "c1a866ec0e04a5e1915b41fcf261457c",
@@ -120,16 +120,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/fa-solid-900.333bae20.woff"
   },
   {
+    "revision": "3d102342391af184d5ae9e7708d8220f",
+    "url": "/portfolio/static/media/fa-solid-900.3d102342.svg"
+  },
+  {
     "revision": "44d537ab79f921fde5a28b2c1636f397",
     "url": "/portfolio/static/media/fa-solid-900.44d537ab.woff2"
   },
   {
     "revision": "8e4a6dcc692b3887f9f542cd6894d6d4",
     "url": "/portfolio/static/media/fa-solid-900.8e4a6dcc.eot"
-  },
-  {
-    "revision": "c2801fb415f03c7b170934769d7b5397",
-    "url": "/portfolio/static/media/fa-solid-900.c2801fb4.svg"
   },
   {
     "revision": "a7e4cc2e75ca5cd91960f2a6c9d79997",

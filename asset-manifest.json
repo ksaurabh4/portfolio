@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.df7a6651.chunk.css",
-    "main.js": "/portfolio/static/js/main.472cfec7.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.472cfec7.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.4b27c51a.chunk.css",
+    "main.js": "/portfolio/static/js/main.2e6191bb.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.2e6191bb.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.28b9b55b.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.28b9b55b.js.map",
     "static/js/2.214a3972.chunk.js": "/portfolio/static/js/2.214a3972.chunk.js",
     "static/js/2.214a3972.chunk.js.map": "/portfolio/static/js/2.214a3972.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.06c4bd56d9f98641d6095c148ce4d88a.js": "/portfolio/precache-manifest.06c4bd56d9f98641d6095c148ce4d88a.js",
+    "precache-manifest.16c448102cd8377808ec64070fe708c3.js": "/portfolio/precache-manifest.16c448102cd8377808ec64070fe708c3.js",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.df7a6651.chunk.css.map": "/portfolio/static/css/main.df7a6651.chunk.css.map",
+    "static/css/main.4b27c51a.chunk.css.map": "/portfolio/static/css/main.4b27c51a.chunk.css.map",
     "static/js/2.214a3972.chunk.js.LICENSE.txt": "/portfolio/static/js/2.214a3972.chunk.js.LICENSE.txt",
     "static/media/index.css": "/portfolio/static/media/Montserrat-Regular.ee653992.ttf",
-    "static/media/aon.svg": "/portfolio/static/media/aon.fe128188.svg",
+    "static/media/aon.svg": "/portfolio/static/media/aon.30cdaa75.svg",
     "static/media/buld.jpg": "/portfolio/static/media/buld.a1051a22.jpg",
     "static/media/css_html.png": "/portfolio/static/media/css_html.028b7bd9.png",
     "static/media/cwoc.png": "/portfolio/static/media/cwoc.404ae7bc.png",
-    "static/media/all.css": "/portfolio/static/media/fa-solid-900.c2801fb4.svg",
+    "static/media/all.css": "/portfolio/static/media/fa-solid-900.8e4a6dcc.eot",
     "static/media/fe.png": "/portfolio/static/media/fe.a7e4cc2e.png",
     "static/media/flutter.png": "/portfolio/static/media/flutter.54f67219.png",
     "static/media/gdg.png": "/portfolio/static/media/gdg.6364dbb3.png",
@@ -41,7 +41,7 @@
   "entrypoints": [
     "static/js/runtime-main.28b9b55b.js",
     "static/js/2.214a3972.chunk.js",
-    "static/css/main.df7a6651.chunk.css",
-    "static/js/main.472cfec7.chunk.js"
+    "static/css/main.4b27c51a.chunk.css",
+    "static/js/main.2e6191bb.chunk.js"
   ]
 }
