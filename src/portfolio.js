@@ -44,7 +44,7 @@ const skills = {
         "⚡ Creating application backend in Node & Express",
         "⚡ Creating mobile applications in Flutter",
         "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean",
-        "⚡ Developing wordpress websites based on WP themes"
+        "⚡ Developing wordpress websites based on WP themes",
       ],
       softwareSkills: [
         {
@@ -111,7 +111,7 @@ const skills = {
             color: "#FFA500",
           },
         },
-        
+
         {
           skillName: "MongoDB",
           fontAwesomeClassname: "simple-icons:mongodb",
@@ -354,7 +354,7 @@ const certifications = {
       certificate_link:
         "https://drive.google.com/file/d/1NOJis_W3GqH-Wwrplpq4AB-fdwH91ilR/view?usp=sharing",
       alt_name: "HTML & CSS",
-      
+
       color_code: "#fffbf3",
     },
   ],
@@ -369,16 +369,18 @@ const blogSection = {
 const blogs = {
   blogs: [
     {
-      subtitle: "JavaScript Variable Scope Chain and Variable Environment – The Core Concepts",
-      logo_path: "https://whynotgoogleit.com/wp-content/uploads/2020/05/Variable-Scope-Chain-and-variable-environment-1024x536.png",
-      blog_link:
-        "https://whynotgoogleit.com/variable-scope-chain/",
+      subtitle:
+        "JavaScript Variable Scope Chain and Variable Environment – The Core Concepts",
+      logo_path:
+        "https://whynotgoogleit.com/wp-content/uploads/2020/05/Variable-Scope-Chain-and-variable-environment-1024x536.png",
+      blog_link: "https://whynotgoogleit.com/variable-scope-chain/",
       alt_name: "javascript variable scope chain",
       color_code: "#d7fcfb",
     },
     {
       subtitle: "JavaScript Execution Context, Execution Stack and Hoisting",
-      logo_path: "https://whynotgoogleit.com/wp-content/uploads/2020/05/JavaScript-Execution-Stack-And-Hoisting-1024x536.png",
+      logo_path:
+        "https://whynotgoogleit.com/wp-content/uploads/2020/05/JavaScript-Execution-Stack-And-Hoisting-1024x536.png",
       blog_link:
         "https://whynotgoogleit.com/javascript-execution-stack-and-hoisting/",
       alt_name: "JavaScript Execution Context",
@@ -386,7 +388,8 @@ const blogs = {
     },
     {
       subtitle: "JavaScript Global Execution Context – Behind the Scene",
-      logo_path: "https://whynotgoogleit.com/wp-content/uploads/2020/05/JavaScript-Global-Execution-Context-Cover-Image-1024x536.png",
+      logo_path:
+        "https://whynotgoogleit.com/wp-content/uploads/2020/05/JavaScript-Global-Execution-Context-Cover-Image-1024x536.png",
       blog_link:
         "https://whynotgoogleit.com/javascript-global-execution-context-and-global-object/",
       alt_name: "JavaScript Execution Context",
@@ -394,7 +397,8 @@ const blogs = {
     },
     {
       subtitle: "Top 5 JavaScript Array Methods To Access Through Elements",
-      logo_path: "https://whynotgoogleit.com/wp-content/uploads/2020/04/top-5-array-methods-to-access-the-elements-1024x576.png",
+      logo_path:
+        "https://whynotgoogleit.com/wp-content/uploads/2020/04/top-5-array-methods-to-access-the-elements-1024x576.png",
       blog_link:
         "https://whynotgoogleit.com/top-5-javascript-array-methods-working-through-elements/",
       alt_name: "JavaScript Array Methods",
@@ -402,7 +406,8 @@ const blogs = {
     },
     {
       subtitle: "Most Used JavaScript Array Methods – Finding The Elements",
-      logo_path: "https://whynotgoogleit.com/wp-content/uploads/2020/04/20200424_135226_0000-1024x576.png",
+      logo_path:
+        "https://whynotgoogleit.com/wp-content/uploads/2020/04/20200424_135226_0000-1024x576.png",
       blog_link:
         "https://whynotgoogleit.com/javascript-array-methods-for-finding-the-elements/",
       alt_name: "JavaScript Array Methods",
@@ -410,30 +415,33 @@ const blogs = {
     },
     {
       subtitle: "JavaScript Array Methods – Add and Remove",
-      logo_path: "https://whynotgoogleit.com/wp-content/uploads/2020/04/JavaScript-Array-methods-lessons-2-1024x576.png",
-      blog_link:
-        "https://whynotgoogleit.com/javascript-array-methods/",
+      logo_path:
+        "https://whynotgoogleit.com/wp-content/uploads/2020/04/JavaScript-Array-methods-lessons-2-1024x576.png",
+      blog_link: "https://whynotgoogleit.com/javascript-array-methods/",
       alt_name: "JavaScript Array Methods",
       color_code: "#d7fcfb",
     },
     {
-      subtitle: "JavaScript Array to make our life easy – Under the Hood Concepts",
-      logo_path: "https://whynotgoogleit.com/wp-content/uploads/2020/04/20200418_015149_0000.png",
-      blog_link:
-        "https://whynotgoogleit.com/javascript-array-basics-tutorial/",
+      subtitle:
+        "JavaScript Array to make our life easy – Under the Hood Concepts",
+      logo_path:
+        "https://whynotgoogleit.com/wp-content/uploads/2020/04/20200418_015149_0000.png",
+      blog_link: "https://whynotgoogleit.com/javascript-array-basics-tutorial/",
       alt_name: "javascript basics concepts",
       color_code: "#d7fcfb",
     },
     {
-      subtitle: "Indian in China During Corona – Story Behind Why Not Google It",
+      subtitle:
+        "Indian in China During Corona – Story Behind Why Not Google It",
       // subtitle: "Modern React with Redux",
-      logo_path: "https://whynotgoogleit.com/wp-content/uploads/2020/04/why-not-google-it-1024x683.jpg",
+      logo_path:
+        "https://whynotgoogleit.com/wp-content/uploads/2020/04/why-not-google-it-1024x683.jpg",
       blog_link:
         "https://whynotgoogleit.com/indian-in-china-why-not-google-it/",
       alt_name: "Indian in China Story",
       color_code: "#d7fcfb",
       // color_code: "#47A048",
-    }    
+    },
   ],
 };
 
@@ -491,7 +499,7 @@ const experience = {
           description:
             "Fetch user history data from SQL to forecast future feature implementations for the client. Also, Technical hand holding to US based client's employees.",
           color: "#ee3c26",
-        }
+        },
       ],
     },
     // {
@@ -582,16 +590,38 @@ const contactPageData = {
     profile_image_path: "kumar.png",
     description:
       "You can contact me at the places mentioned below. I will try to get back to you as fast as I can. ",
-  }
+  },
 };
 
 const projects = {
   data: [
     {
+      id: "13",
+      name: "Workport SAAS - Employees goals and performance management system",
+      url: "https://www.workport.biz/",
+      description:
+        "Workport SAAS is an effective tool to monitor employee performance at all levels and boost productivity with timely intervention.",
+      languages: [
+        {
+          name: "React",
+          iconifyClass: "logos-react",
+        },
+        {
+          name: "NodeJS",
+          iconifyClass: "logos-nodejs",
+        },
+        {
+          name: "mysql",
+          iconifyClass: "logos-mysql",
+        },
+      ],
+    },
+    {
       id: "11",
       name: "GPS Daddy - GPS Tracking Software",
       // url: "https://erp.libitech.in/",
-      description: "This is the complete gps tracking software for my company made with ReactJS, NodeJS, mysql, mongodb, Flutter, etc..",
+      description:
+        "This is the complete gps tracking software for my company made with ReactJS, NodeJS, mysql, mongodb, Flutter, etc..",
       languages: [
         {
           name: "React",
@@ -622,8 +652,10 @@ const projects = {
     {
       id: "12",
       name: "GPS Talks - GPS Knowledge Center",
-      url: "https://play.google.com/store/apps/details?id=com.gps_talks&hl=en&gl=US",
-      description: "This is a kind of knowledge center/Sharing app helping dealer to aware about GPS tracking devices and let them share it with their community.",
+      url:
+        "https://play.google.com/store/apps/details?id=com.gps_talks&hl=en&gl=US",
+      description:
+        "This is a kind of knowledge center/Sharing app helping dealer to aware about GPS tracking devices and let them share it with their community.",
       languages: [
         {
           name: "Firebase",
@@ -647,7 +679,8 @@ const projects = {
       id: "0",
       name: "Libicon - Complete ERP solution",
       url: "https://erp.libitech.in/",
-      description: "This is complete ERP solution for my company made with ReactJS and NodeJS.",
+      description:
+        "This is complete ERP solution for my company made with ReactJS and NodeJS.",
       languages: [
         {
           name: "React",
@@ -690,27 +723,26 @@ const projects = {
           name: "NodeJS",
           iconifyClass: "logos-nodejs",
         },
-
       ],
     },
     {
       id: "3",
       name: "My Blogging Site - Why Not Google It",
       url: "https://whynotgoogleit.com/",
-      description: "My own Blogging site using Wordpress. Here you can find the analysis on different topics, experience, reviews and technical tutorials.",
+      description:
+        "My own Blogging site using Wordpress. Here you can find the analysis on different topics, experience, reviews and technical tutorials.",
       languages: [
         {
           name: "wordpress",
           iconifyClass: "logos-wordpress",
         },
       ],
-    },    
+    },
     {
       id: "4",
       name: "node_express_task-manager--api",
       url: "https://github.com/libi-technologies-pvt-ltd/task-manager--api",
-      description:
-        "Simple NodeJS Express CRUD Operations API starter.",
+      description: "Simple NodeJS Express CRUD Operations API starter.",
       languages: [
         {
           name: "NodeJS",
@@ -787,15 +819,13 @@ const projects = {
           name: "SCSS",
           iconifyClass: "vscode-icons:file-type-scss2",
         },
-        
       ],
     },
     {
       id: "8",
       name: "Common Room Chat App",
       url: "https://kumar-chat-app.herokuapp.com/",
-      description:
-        "Common room Chat App Using Socket.io and hosted on heroku",
+      description: "Common room Chat App Using Socket.io and hosted on heroku",
       languages: [
         {
           name: "HTML5",
@@ -813,15 +843,13 @@ const projects = {
           name: "NodeJs",
           iconifyClass: "logos-nodejs",
         },
-        
       ],
     },
     {
       id: "9",
       name: "Blog Site Design",
       url: "https://kumar-blog.netlify.app/",
-      description:
-        "A Simple Blog Web front end design using HTML and CSS",
+      description: "A Simple Blog Web front end design using HTML and CSS",
       languages: [
         {
           name: "JavaScript",
@@ -830,17 +858,19 @@ const projects = {
         {
           name: "CSS3",
           iconifyClass: "vscode-icons:file-type-css",
-        },{
+        },
+        {
           name: "JavaScript",
           iconifyClass: "logos-javascript",
-        }
+        },
       ],
     },
     {
       id: "10",
       name: "Covid Products Website",
       url: "https://greatwill.netlify.app/",
-      description: "A simple single page static website related to Covid-19 products. this is reasponsive as well with aria theme.",
+      description:
+        "A simple single page static website related to Covid-19 products. this is reasponsive as well with aria theme.",
       languages: [
         {
           name: "HTML5",
@@ -853,7 +883,7 @@ const projects = {
         {
           name: "JavaScript",
           iconifyClass: "logos-javascript",
-        }
+        },
       ],
     },
   ],
