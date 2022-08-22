@@ -470,7 +470,7 @@ const experience = {
         {
           title: "Technical Business Head (Full Stack Developer)",
           company: "Libi Technologies Pvt Ltd",
-          company_url: "http://www.libitech.in/",
+          company_url: "http://www.libitechnologies.com/",
           logo_path: "libi.png",
           duration: "Nov 2016 - Oct 2021",
           location: "Office",
